@@ -38,12 +38,4 @@ if __name__ == '__main__':
      # Example of usage 
      dist = iter(distribution2(100)) 
    
-     '''
-     dist = iter(distribution4(100)) 
-     samples = next(dist) 
-     
-     
-     aa=torch.tensor([3., 0.00001,3., 0.00001])
-     b=torch.tensor([0.00001, 3., 0.00001,3.])
-     Jen_Shannon(aa,b)
-     '''
+ 
